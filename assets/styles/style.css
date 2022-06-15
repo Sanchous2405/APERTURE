@@ -15,6 +15,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: black;
 }
 
 .top {
@@ -73,6 +74,7 @@ body {
   flex-direction: column;
   margin: 0% auto;
   padding-top: 461px;
+  background-color: black;
   background-image: url(/assets/image/head/IMAGE.png);
 }
 
@@ -121,6 +123,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  padding-bottom: 41px;
 }
 
 .cnt {
@@ -131,4 +134,96 @@ body {
   line-height: 12px;
   /* identical to box height, or 100% */
   color: #FFFFFF;
+}
+
+.container {
+  width: 100%;
+}
+
+.txt {
+  width: 100%;
+  padding-top: 113px;
+  margin: 0% auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.post {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 42px;
+  /* identical to box height, or 105% */
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.doc {
+  padding-top: 15px;
+  padding-bottom: 42px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 30px;
+  /* identical to box height, or 130% */
+  text-align: center;
+  color: #C0C0C0;
+}
+
+.foto {
+  display: flex;
+  flex-direction: row;
+  padding-left: 136px;
+}
+
+.picture {
+  position: relative;
+  padding-right: 30px;
+}
+
+.legend {
+  position: absolute;
+  padding: 421px 0px 0px 30px;
+  width: 500px;
+}
+
+.legend1 {
+  position: absolute;
+  padding: 421px 160px 0px 630px;
+}
+
+.writing {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.caption {
+  padding-top: 30px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  /* or 143% */
+  color: #C0C0C0;
+}
+
+.form {
+  width: 143px;
+  height: 42px;
+  background: #FFFFFF;
+  border-radius: 14px;
+  box-shadow: 0px 3px 15px #E4E2EE;
+}
+.form:active {
+  transform: scale(1, 0.8);
 }/*# sourceMappingURL=style.css.map */
