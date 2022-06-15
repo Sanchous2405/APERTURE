@@ -173,9 +173,17 @@ body {
 }
 
 .foto {
+  width: 1400px;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   padding-left: 136px;
+}
+
+.foto1 {
+  display: flex;
+  flex-direction: row;
+  padding-top: 16px;
 }
 
 .picture {
