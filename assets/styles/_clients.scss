@@ -1,0 +1,39 @@
+.clients {
+    width: 100%;
+    margin: 0% auto;
+    padding-top: 113px;
+}
+.past {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 42px;
+    /* identical to box height, or 105% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.compain {
+    padding-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+
+    text-align: center;
+
+    color: #C0C0C0;
+
+}
+.partners {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0% auto;
+    width: 1168px;
+    display: flex;
+    justify-content: space-between;
+}
