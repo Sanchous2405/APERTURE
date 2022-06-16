@@ -1,0 +1,73 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    padding: 92px 0px 80px 136px;
+    border-bottom: 3px solid wheat;
+}
+.aperture {
+    
+    display: flex;
+    flex-direction: column;
+}
+.about {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    /* identical to box height, or 154% */
+
+
+    color: #C0C0C0;
+}
+.list {
+    padding-left: 500px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    color: #FFFFFF;
+}
+.list2 {
+    padding-left: 80px;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    color: #FFFFFF;
+}
+.bus {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+
+    color: #FFFFFF;
+    
+    }
+    .foot{
+        padding: 36px 0px 40px 136px;
+        
+    }
+    .form1{
+        width: 458px ;
+        height: 52px ;
+        background: #F9FAFB;
+border: 1px solid #E5E7EB;
+border-radius: 12px;
+    }
